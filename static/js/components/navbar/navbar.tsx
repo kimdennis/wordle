@@ -37,7 +37,7 @@ import {
         </div>
         <hr></hr>
         <div id="logo_header_container">
-          <a href="http://denniskim.me/">
+          <a href="https://kimdennis.github.io/wordle/">
             <img id="logo_header" src="denniswordle.png" alt="Dennis Wordle Logo"width="350" height="auto"></img>
           </a>
         </div>

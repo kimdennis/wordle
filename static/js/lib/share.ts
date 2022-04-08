@@ -22,7 +22,7 @@ export const shareStatus = (
       lost ? 'X' : guesses.length
     }/${MAX_CHALLENGES}${isHardMode ? '*' : ''}\n\n` +
     generateEmojiGrid(guesses, getEmojiTiles(isDarkMode, isHighContrastMode))
-  + '\n\n By: @1kimden \n http://denniskim.me/'
+  + '\n\n By: @1kimden \n https://kimdennis.github.io/wordle/'
 
   const shareData = { text: textToShare }
 
